@@ -46,11 +46,12 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
  ```
 
 ## 🛠️ Project Structure
+```
 /src          # TypeScript source files
 /dist         # Compiled JavaScript output
 /package.json # Project metadata & dependencies
 /tsconfig.json# TypeScript configuration
-
+```
 
 ## 🧑‍💻 Contributing
 
