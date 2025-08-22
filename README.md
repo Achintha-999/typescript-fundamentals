@@ -17,17 +17,19 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
 ## 💻 How to Run
 
 1. **Clone the repository:**
+ 
    ```bash
    git clone https://github.com/Achintha-999/typescript-fundamentals.git
    cd typescript-fundamentals
    ```
 
 2. **Install dependencies:**
-  ```
+
+    ```
     npm install
       # or
     yarn install
-   ```
+    ```
 
 3. **Compile TypeScript code:**
 
@@ -36,6 +38,24 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
    # or if TypeScript is installed globally
    tsc
    ```
+
+ 4.**Run the project: **  
+
+ ```
+ node index.js
+ ```
+
+## 🛠️ Project Structure
+/src          # TypeScript source files
+/dist         # Compiled JavaScript output
+/package.json # Project metadata & dependencies
+/tsconfig.json# TypeScript configuration
+
+
+## 🧑‍💻 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request to improve documentation, add examples, or fix bugs.
+
 
 
 
