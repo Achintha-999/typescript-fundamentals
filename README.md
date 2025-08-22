@@ -39,7 +39,7 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
    tsc
    ```
 
- 4.**Run the project: **  
+ 4. **Run the project:** 
 
  ```
  node index.js
