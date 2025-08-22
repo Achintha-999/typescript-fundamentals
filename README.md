@@ -38,9 +38,9 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
 
 4. **Run the project:**
    ```bash
-   node dist/index.js
+   node index.js
    ```
-   *(Adjust the entry point as needed for your code examples or projects)*
+  
 
 ## 🛠️ Project Structure
 
