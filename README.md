@@ -20,3 +20,10 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
    ```bash
    git clone https://github.com/Achintha-999/typescript-fundamentals.git
    cd typescript-fundamentals
+
+2. **Install dependencies:**
+  ```
+    npm install
+   # or
+   yarn install
+   
