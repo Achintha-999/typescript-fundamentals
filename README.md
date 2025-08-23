@@ -40,8 +40,8 @@ This repository, **TypeScript Fundamentals**, is designed to help developers lea
    ```bash
    node index.js
    ```
-  
 
+  
 ## 🛠️ Project Structure
 
 ```
